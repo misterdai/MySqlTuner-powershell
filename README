@@ -1,4 +1,4 @@
------ MySQLTuner-perl -----
+----- MySQLTuner-powershell -----
 
 MySQLTuner is a script written in Perl, rewritten in PowerShell, that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.  The current configuration variables and status data is retrieved and presented in a brief format along with some basic performance suggestions.
 
